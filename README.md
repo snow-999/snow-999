@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nada-elhosary-0684611a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nada elhosary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khaled-ibrahim-302b24230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nada elhosary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
