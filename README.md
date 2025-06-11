@@ -36,4 +36,4 @@
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> </p>
 <hr/>
 <h3><b>:octocat:&nbsp;Github Stats</b></h3>
-<div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaElho&theme=noctis_minimus" width="400"/></div>
+
