@@ -9,7 +9,7 @@
 
 - 🤓 Always learning new things
 
-- 📫 How to reach me **nadaelhosary51@gmail.com**
+- 📫 How to reach me **khaledhome687@gmail.com**
 
 <h3 align="left">Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></h3>
 <p align="left">
